@@ -2,7 +2,7 @@
     <div class="container mt-5">
         <div class="row text-center">
             <div class="col-12">
-                <h1 class="display-4" style="">Bienvenue Go<span class="text-info fide-in">2</span><span class="text-danger slide-in">4</span><span class="text-warning fide-in">3</span>!</h1>
+                <h1 class="display-4" style="">Bienvenue sur Go<span class="text-info fide-in">2</span><span class="text-danger slide-in">4</span><span class="text-warning fide-in">3</span>!</h1>
                 <p class="lead">Découvrez les dernières tendances, articles, et astuces sur le monde de la technologie, de la programmation et plus encore !</p>
             </div>
         </div>
@@ -22,7 +22,7 @@
 
 
     <!--section nos mentors-->
-    
+
 
 
     <!-- Features Section -->
